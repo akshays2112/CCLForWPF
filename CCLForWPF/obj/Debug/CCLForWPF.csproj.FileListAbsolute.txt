@@ -1,0 +1,15 @@
+D:\Visual Studio 2015 Projects\CCLForWPF\CCLForWPF\bin\Debug\CCLForWPF.dll
+D:\Visual Studio 2015 Projects\CCLForWPF\CCLForWPF\bin\Debug\CCLForWPF.pdb
+D:\Visual Studio 2015 Projects\CCLForWPF\CCLForWPF\obj\Debug\CCLForWPF.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015 Projects\CCLForWPF\CCLForWPF\obj\Debug\CCLForWPF.dll
+D:\Visual Studio 2015 Projects\CCLForWPF\CCLForWPF\obj\Debug\CCLForWPF.pdb
+E:\VS2015\CCLForWPF\CCLForWPF\bin\Debug\CCLForWPF.dll
+E:\VS2015\CCLForWPF\CCLForWPF\bin\Debug\CCLForWPF.pdb
+E:\VS2015\CCLForWPF\CCLForWPF\obj\Debug\CCLForWPF.dll
+E:\VS2015\CCLForWPF\CCLForWPF\obj\Debug\CCLForWPF.pdb
+D:\Backup\VSProjects\CCLForWPF\CCLForWPF\bin\Debug\CCLForWPF.dll
+D:\Backup\VSProjects\CCLForWPF\CCLForWPF\bin\Debug\CCLForWPF.pdb
+D:\Backup\VSProjects\CCLForWPF\CCLForWPF\obj\Debug\CCLForWPF.csprojAssemblyReference.cache
+D:\Backup\VSProjects\CCLForWPF\CCLForWPF\obj\Debug\CCLForWPF.csproj.CoreCompileInputs.cache
+D:\Backup\VSProjects\CCLForWPF\CCLForWPF\obj\Debug\CCLForWPF.dll
+D:\Backup\VSProjects\CCLForWPF\CCLForWPF\obj\Debug\CCLForWPF.pdb
